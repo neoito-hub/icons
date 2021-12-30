@@ -1,0 +1,1 @@
+export interface Icon { name: string, tags: string[], svg: string }
